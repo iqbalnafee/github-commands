@@ -20,3 +20,6 @@
 
 if you still confused and want to know more about github visit:
 https://github.com/iqbalnafee/github-commands/blob/master/Git-Cheat-Sheet-pdf-v2.png  
+
+
+You need to do at least one commit at master branch to commit in anoyher branches
