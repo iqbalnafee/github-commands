@@ -1,0 +1,22 @@
+1. create a local repository by the command "git init" in git bash
+2. To push in a remote git repository 
+
+	(i)First create a repository in github
+	(ii)Then you need to follow the following commands
+		
+		(a) First type "git add [filename]" or if you want to push all the files then type "git add ."
+		    Without third brackets.
+		(b) Then type "git commit -m [your message]"
+		    Without third brackets.
+		(c) Then type "git push [url]". Here the url is remote repository's url. If this command does not work then
+		    simply type "git push --set-upstream [url] master"
+                    Without third brackets.
+
+1. Now if you want to create a branch then type "git branch branch-name"
+2. If you want to switch your new created branch then type "git checkout branch-name"
+3. To merge branch a to brach b then simply type following commands
+	(a)git checkout b
+	(b)git merge branch a
+
+if you still confused and want to know more about github visit:
+https://github.com/iqbalnafee/github-commands/blob/master/Git-Cheat-Sheet-pdf-v2.png  
