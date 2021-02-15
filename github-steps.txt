@@ -18,8 +18,10 @@
 	(a)git checkout b
 	(b)git merge branch a
 
-if you still confused and want to know more about github visit:
+if you still confused please visit the github:
 https://github.com/iqbalnafee/github-commands/blob/master/Git-Cheat-Sheet-pdf-v2.png  
 
 
 You need to do at least one commit at master branch to commit in anoyher branches
+
+END!
