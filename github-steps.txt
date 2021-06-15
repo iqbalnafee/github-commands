@@ -17,6 +17,11 @@
 3. To merge branch a to brach b then simply type following commands
 	(a)git checkout b
 	(b)git merge branch a
+	
+4. For rebase branch a to brach b then simply type following commands
+
+	(a)git checkout b
+	(b)git rebase  a
 
 if you still confused please visit the github:
 https://github.com/iqbalnafee/github-commands/blob/master/Git-Cheat-Sheet-pdf-v2.png  
